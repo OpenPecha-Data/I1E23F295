@@ -1,0 +1,16 @@
+id: I1E23F295
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:29:34.181755
+last_modified: 2023-02-10 00:29:34.181914
+source_metadata:
+  title: 'Nāgārjuna: Mūlamadhyamakakārikā'
+  language: bo
+bases:
+  5E06:
+    base_file: 5E06.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
